@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:Signups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|c:\\users\\youfi\\onedrive\\auca\\.net\\masters_reg\\signups.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:signups.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|c:\\users\\youfi\\onedrive\\auca\\.net\\masters_reg\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\signups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:signups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|c:\\users\\youfi\\onedrive\\auca\\.net\\masters_reg\\signups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:signups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\signups.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:signups.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\facult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -37,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|solutionrelative:logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D8E640-9E80-475F-AE12-764C1A21721C}|Masters_Reg.csproj|C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,18 +58,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Signups.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs",
-              "RelativeDocumentMoniker": "Signups.cs",
-              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs [Design]",
-              "RelativeToolTip": "Signups.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:36:53.642Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Logins.cs [Design]",
               "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Logins.cs",
@@ -86,31 +70,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Teacher.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Teacher.cs",
-              "RelativeDocumentMoniker": "Teacher.cs",
-              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Teacher.cs [Design]",
-              "RelativeToolTip": "Teacher.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:52:01.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Signups.cs",
               "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs",
               "RelativeDocumentMoniker": "Signups.cs",
               "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs",
               "RelativeToolTip": "Signups.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T18:36:59.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Signups.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs",
+              "RelativeDocumentMoniker": "Signups.cs",
+              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.cs [Design]",
+              "RelativeToolTip": "Signups.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:36:53.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Registration.cs [Design]",
+              "RelativeToolTip": "Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:51:37.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Teacher.cs [Design]",
+              "RelativeToolTip": "Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:52:01.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Schedule.cs [Design]",
               "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Schedule.cs",
               "RelativeDocumentMoniker": "Schedule.cs",
@@ -121,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Signups.Designer.cs",
               "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Signups.Designer.cs",
               "RelativeDocumentMoniker": "Signups.Designer.cs",
@@ -129,19 +138,7 @@
               "RelativeToolTip": "Signups.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T14:04:30.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Registration.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Registration.cs",
-              "RelativeDocumentMoniker": "Registration.cs",
-              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Registration.cs [Design]",
-              "RelativeToolTip": "Registration.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:51:37.634Z"
+              "WhenOpened": "2025-02-05T14:04:30.339Z"
             },
             {
               "$type": "Document",
@@ -167,19 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Logins.cs",
-              "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Logins.cs",
-              "RelativeDocumentMoniker": "Logins.cs",
-              "ToolTip": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Logins.cs*",
-              "RelativeToolTip": "Logins.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T19:37:56.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -191,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\youfi\\OneDrive\\AUCA\\.NET\\Masters_Reg\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

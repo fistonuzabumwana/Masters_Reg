@@ -28,6 +28,11 @@ namespace Masters_Reg
             signups.ShowDialog();
             this.Hide();
         }
+
+        private void Logins_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
   
