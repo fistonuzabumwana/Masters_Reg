@@ -17,17 +17,20 @@ jobs:
       run: |
         Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-    - name: Install .NET Framework 4.7.2 Developer Pack
+    - name: Install .NET Framework Developer Pack
       run: choco install netfx-4.7.2-devpack -y
 
     - name: Install Visual Studio Build Tools
-      run: choco install visualstudio2019buildtools -y
+      run: choco install visualstudio2019buildtools -y --ignore-checksums --params "--add Microsoft.VisualStudio.Workload.ManagedDesktopBuildTools"
+
+    - name: Set Environment Variable for MSBuild
+      run: set MSBuildSDKsPath="C:\Program Files\dotnet\sdk\$(dotnet --version)\Sdks"
 
     - name: Restore dependencies
       run: dotnet restore
 
     - name: Build
-      run: dotnet build --no-restore -p:Platform="Any CPU"
+      run: dotnet build --no-restore -p:Platform="x86"
 
     - name: Test
       run: dotnet test --no-build --verbosity normal
