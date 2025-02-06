@@ -27,7 +27,7 @@ jobs:
       run: dotnet restore
 
     - name: Build
-      run: dotnet build --no-restore -c Debug -p:Platform="x64"
+      run: dotnet build --no-restore -c
 
     - name: Test
       run: dotnet test --no-build --verbosity normal
