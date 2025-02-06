@@ -90,6 +90,12 @@
     <Compile Include="Teacher.Designer.cs">
       <DependentUpon>Teacher.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="course.resx">
+      <DependentUpon>course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facult.resx">
+      <DependentUpon>Facult.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Registration.resx">
       <DependentUpon>Registration.cs</DependentUpon>
     </EmbeddedResource>
