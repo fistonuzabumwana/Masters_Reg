@@ -23,14 +23,11 @@ jobs:
     - name: Install Visual Studio Build Tools
       run: choco install visualstudio2019buildtools -y --ignore-checksums --params "--add Microsoft.VisualStudio.Workload.ManagedDesktopBuildTools"
 
-    - name: Set Environment Variable for MSBuild
-      run: set MSBuildSDKsPath="C:\Program Files\dotnet\sdk\$(dotnet --version)\Sdks"
-
     - name: Restore dependencies
       run: dotnet restore
 
     - name: Build
-      run: dotnet build --no-restore -p:Platform="x86"
+      run: dotnet build --no-restore -c Debug -p:Platform="x64"
 
     - name: Test
       run: dotnet test --no-build --verbosity normal
