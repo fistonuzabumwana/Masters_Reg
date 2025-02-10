@@ -30,8 +30,10 @@
         {
             System.Windows.Forms.Button button4;
             System.Windows.Forms.Button button1;
+            System.Windows.Forms.Button button2;
+            System.Windows.Forms.Button button5;
+            System.Windows.Forms.Button button3;
             this.panel3 = new System.Windows.Forms.Panel();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.label7 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -39,10 +41,24 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             button4 = new System.Windows.Forms.Button();
             button1 = new System.Windows.Forms.Button();
+            button2 = new System.Windows.Forms.Button();
+            button5 = new System.Windows.Forms.Button();
+            button3 = new System.Windows.Forms.Button();
             this.panel3.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // button4
@@ -57,47 +73,33 @@
             button4.Text = "Back";
             button4.UseVisualStyleBackColor = false;
             // 
+            // button1
+            // 
+            button1.BackColor = System.Drawing.Color.Blue;
+            button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            button1.ForeColor = System.Drawing.Color.White;
+            button1.Location = new System.Drawing.Point(530, 85);
+            button1.Name = "button1";
+            button1.Size = new System.Drawing.Size(154, 30);
+            button1.TabIndex = 16;
+            button1.Text = "Display Course";
+            button1.UseVisualStyleBackColor = false;
+            // 
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.panel3.Controls.Add(button1);
-            this.panel3.Controls.Add(this.tableLayoutPanel1);
+            this.panel3.Controls.Add(this.dataGridView1);
             this.panel3.Controls.Add(this.label7);
-            this.panel3.Location = new System.Drawing.Point(12, 157);
+            this.panel3.Location = new System.Drawing.Point(12, 295);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(824, 298);
+            this.panel3.Size = new System.Drawing.Size(824, 208);
             this.panel3.TabIndex = 42;
-            // 
-            // tableLayoutPanel1
-            // 
-            this.tableLayoutPanel1.ColumnCount = 8;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 30F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 200F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 80F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 80F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 100F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 82F));
-            this.tableLayoutPanel1.GrowStyle = System.Windows.Forms.TableLayoutPanelGrowStyle.FixedSize;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(9, 103);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 7;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 30F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(782, 167);
-            this.tableLayoutPanel1.TabIndex = 10;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(346, 63);
+            this.label7.Location = new System.Drawing.Point(346, 15);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(133, 20);
             this.label7.TabIndex = 9;
@@ -165,33 +167,143 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Student Name:";
             // 
-            // button1
+            // panel2
             // 
-            button1.BackColor = System.Drawing.Color.Green;
-            button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            button1.ForeColor = System.Drawing.Color.White;
-            button1.Location = new System.Drawing.Point(336, 19);
-            button1.Name = "button1";
-            button1.Size = new System.Drawing.Size(154, 30);
-            button1.TabIndex = 16;
-            button1.Text = "Display Course";
-            button1.UseVisualStyleBackColor = false;
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.panel2.Controls.Add(this.textBox1);
+            this.panel2.Controls.Add(button1);
+            this.panel2.Controls.Add(button2);
+            this.panel2.Controls.Add(button5);
+            this.panel2.Controls.Add(this.label3);
+            this.panel2.Controls.Add(this.textBox4);
+            this.panel2.Controls.Add(this.label11);
+            this.panel2.Location = new System.Drawing.Point(12, 145);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(824, 134);
+            this.panel2.TabIndex = 44;
+            // 
+            // button2
+            // 
+            button2.BackColor = System.Drawing.Color.Red;
+            button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            button2.ForeColor = System.Drawing.Color.Wheat;
+            button2.Location = new System.Drawing.Point(341, 85);
+            button2.Name = "button2";
+            button2.Size = new System.Drawing.Size(162, 30);
+            button2.TabIndex = 36;
+            button2.Text = "Delete Course";
+            button2.UseVisualStyleBackColor = false;
+            // 
+            // button5
+            // 
+            button5.BackColor = System.Drawing.Color.Green;
+            button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            button5.ForeColor = System.Drawing.Color.White;
+            button5.Location = new System.Drawing.Point(149, 85);
+            button5.Name = "button5";
+            button5.Size = new System.Drawing.Size(161, 30);
+            button5.TabIndex = 15;
+            button5.Text = "Add New Course";
+            button5.UseVisualStyleBackColor = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(145, 30);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(122, 20);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "Course Name:";
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(562, 30);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(122, 20);
+            this.textBox4.TabIndex = 6;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(438, 30);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(118, 20);
+            this.label11.TabIndex = 20;
+            this.label11.Text = "Course Code:";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1,
+            this.Column2,
+            this.Column3});
+            this.dataGridView1.Location = new System.Drawing.Point(6, 55);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(815, 150);
+            this.dataGridView1.TabIndex = 11;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(273, 30);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(147, 20);
+            this.textBox1.TabIndex = 38;
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "COURSE CODE\t";
+            this.Column1.Name = "Column1";
+            this.Column1.Width = 260;
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "COURSE NAME";
+            this.Column2.Name = "Column2";
+            this.Column2.Width = 260;
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "CREDITS";
+            this.Column3.Name = "Column3";
+            this.Column3.Width = 250;
+            // 
+            // button3
+            // 
+            button3.BackColor = System.Drawing.Color.Red;
+            button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            button3.ForeColor = System.Drawing.Color.White;
+            button3.Location = new System.Drawing.Point(757, 19);
+            button3.Name = "button3";
+            button3.Size = new System.Drawing.Size(79, 30);
+            button3.TabIndex = 45;
+            button3.Text = "LogOut";
+            button3.UseVisualStyleBackColor = false;
             // 
             // course
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(853, 563);
+            this.Controls.Add(button3);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(button4);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
             this.Name = "course";
             this.Text = "course";
+            this.Load += new System.EventHandler(this.course_Load);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -200,7 +312,6 @@
         #endregion
 
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel1;
@@ -208,5 +319,14 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
     }
 }

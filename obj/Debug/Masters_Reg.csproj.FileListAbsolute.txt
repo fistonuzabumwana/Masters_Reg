@@ -1,11 +1,14 @@
+C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\bin\Debug\Masters_Reg.exe.config
+C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\bin\Debug\Masters_Reg.exe
+C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\bin\Debug\Masters_Reg.pdb
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.csproj.AssemblyReference.cache
+C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.course.resources
+C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.Facult.resources
+C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.Registration.resources
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.Signups.resources
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.Logins.resources
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.Properties.Resources.resources
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.csproj.GenerateResource.cache
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.csproj.CoreCompileInputs.cache
-C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\bin\Debug\Masters_Reg.exe.config
-C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\bin\Debug\Masters_Reg.exe
-C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\bin\Debug\Masters_Reg.pdb
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.exe
 C:\Users\youfi\OneDrive\AUCA\.NET\Masters_Reg\obj\Debug\Masters_Reg.pdb

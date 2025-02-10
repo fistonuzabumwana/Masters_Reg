@@ -16,5 +16,15 @@ namespace Masters_Reg
         {
             InitializeComponent();
         }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void course_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
